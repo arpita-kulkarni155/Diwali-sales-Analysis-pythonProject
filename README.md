@@ -5,10 +5,10 @@
 * improving customer experience by analyze sales data.
 
 ## Libraries used:
-1)Pandas
-2)Matplotlib
-3)Seaborn
-4)Numpy
+1) Pandas
+2) Matplotlib
+3) Seaborn
+4) Numpy
 
 ## Project Learnings:
 * Performed data cleaning and manipulation
